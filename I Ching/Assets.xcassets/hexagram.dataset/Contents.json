@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "hexagram.csv",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
